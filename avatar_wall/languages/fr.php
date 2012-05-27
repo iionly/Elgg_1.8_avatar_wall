@@ -8,11 +8,11 @@ $french = array(
 'avatar_wall:week' => "Membres actifs cette semaine",
 'avatar_wall:all' => "Tous les membres",
 
-'avatar_wall:settings:onlywithavatar' => "Afficher uniquement les utilisateurs avec un avatar personnalisÈ? ",
+'avatar_wall:settings:onlywithavatar' => "Afficher uniquement les utilisateurs avec un avatar personnalis√©? ",
 'avatar_wall:settings:tiny' => "Minuscule",
 'avatar_wall:settings:small' => "Petite",
-'avatar_wall:settings:iconsize' => "Quelle taille d'icÙne doit Ítre utilisÈe sur le mur? ",
-'avatar_wall:settings:maxicons' => "Indiquez le nombre maximum d'icÙnes sur le mur:",
+'avatar_wall:settings:iconsize' => "Quelle taille d'ic√¥ne doit √™tre utilis√©e sur le mur? ",
+'avatar_wall:settings:maxicons' => "Indiquez le nombre maximum d'ic√¥nes sur le mur:",
 );
 
 add_translation("fr", $french);
