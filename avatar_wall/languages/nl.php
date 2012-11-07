@@ -11,7 +11,7 @@ $nederlands = array(
 'avatar_wall:settings:onlywithavatar' => "Toon enkel gebruikers met een eigen avatar? ",
 'avatar_wall:settings:tiny' => "Minuscuul",
 'avatar_wall:settings:small' => "Klein",
-'avatar_wall:settings:iconsize' => "Welkicoonformaat moet er gebruikt worden op de muur?",
+'avatar_wall:settings:iconsize' => "Welk icoonformaat moet er gebruikt worden op de muur?",
 'avatar_wall:settings:maxicons' => "Geef het maximaal aantal icoontjes dat mag getoond worden:",
 );
 
