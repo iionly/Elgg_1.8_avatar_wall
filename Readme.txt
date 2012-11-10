@@ -1,6 +1,6 @@
 Avatar Wall for Elgg 1.8
-Latest Version: 1.8.2
-Released: 2012-05-27
+Latest Version: 1.8.3
+Released: 2012-11-10
 License: GNU Public License version 2
 (C) iionly 2012 (for Elgg 1.8), (C) ColdTrick IT Solutions 2009
 Contact: iionly@gmx.de
@@ -23,9 +23,13 @@ Installation:
 
 Version History:
 
+1.8.3 (by iionly):
+
+- Dutch translation added (thanks to Hans Fraiponts).
+
 1.8.2 (by iionly):
 
-- French translation added (thank to emanwebdev),
+- French translation added (thanks to emanwebdev),
 - German translation added.
 
 1.8.1 (by iionly)
