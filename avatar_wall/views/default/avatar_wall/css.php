@@ -1,7 +1,6 @@
 <?php
-
 ?>
 
 .wall_icons{
-    margin: 2px;
+	margin: 2px;
 }
